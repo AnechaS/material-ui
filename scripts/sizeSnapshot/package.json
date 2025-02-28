@@ -1,6 +1,6 @@
 {
   "name": "size-snapshot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Size snapshot of MUI packages",
   "dependencies": {

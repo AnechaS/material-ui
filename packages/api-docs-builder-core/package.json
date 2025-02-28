@@ -1,6 +1,6 @@
 {
   "name": "@mui-internal/api-docs-builder-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MUI Core-specific settings for API docs generator",
   "private": "true",
   "main": "./index.ts",
